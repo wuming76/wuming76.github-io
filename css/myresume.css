@@ -11,6 +11,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 }
 
 .bg-primary{
-	background-color: #0010c2!important;
-	background-image: url(../assest/img/green-dust-and-scratches.png);
+	background-color: #000203;
+    background-image: url(http://www.transparenttextures.com/patterns/green-dust-and-scratches.png);
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
